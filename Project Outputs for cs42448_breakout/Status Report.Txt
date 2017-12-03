@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [cs42448_breakout.PrjPcb]
+   Generated File[cs42448_breakout.TXT]
+   Generated File[cs42448_breakout.LDP]
+   Generated File[cs42448_breakout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:51:46 PM On 12/3/2017
